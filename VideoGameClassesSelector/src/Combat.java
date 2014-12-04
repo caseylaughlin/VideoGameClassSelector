@@ -6,7 +6,7 @@ public class Combat extends VideoGameClassSelector {
 	}
 	public void useSpecial()
 	{
-		System.out.println("Each of the classes has a special that can be crucial to winning");
+		System.out.println("Each of the combat classes has a special that can be crucial to winning");
 	}
 
 }

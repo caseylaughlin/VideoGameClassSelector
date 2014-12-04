@@ -14,7 +14,7 @@ public class Assassin extends Combat{
 	}
 	public void getStats()
 	{
-		System.out.println("The " + name + " has " + health + " health out of 50, uses a " + weapon + " and does " + Damage + " damage out of 50. Also he can " + special + ".");
+		System.out.println("The " + name + " has " + health + " health out of 50, duel wields " + weapon + " and does " + Damage + " damage out of 50. Also he can " + special + ".");
 	}
 
 }

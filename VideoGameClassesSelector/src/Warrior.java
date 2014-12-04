@@ -5,7 +5,7 @@ public class Warrior extends Combat{
 		name = "Warrior";
 		Damage = 45;
 		weapon = "two handed braod sword";
-		special = "smash the ground for an AOE effect deling double his base damage";
+		special = "smash the ground for an AOE effect dealing double his base damage";
 		
 		
 	}
